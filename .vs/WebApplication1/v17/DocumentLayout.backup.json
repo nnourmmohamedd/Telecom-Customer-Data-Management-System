@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Downloads\\WebApplication1ADMINPARTTESTED\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B42B0322-6901-45ED-A15C-13A61B5A3995}|WebApplication1\\WebApplication1.csproj|c:\\users\\dell\\downloads\\webapplication1adminparttested\\webapplication1\\webapplication1\\milestone 2 implementation -final.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{B42B0322-6901-45ED-A15C-13A61B5A3995}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\milestone 2 implementation -final.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42B0322-6901-45ED-A15C-13A61B5A3995}|WebApplication1\\WebApplication1.csproj|c:\\users\\dell\\downloads\\webapplication1adminparttested\\webapplication1\\webapplication1\\milestone 2 implementation -final.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{B42B0322-6901-45ED-A15C-13A61B5A3995}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\milestone 2 implementation -final.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Milestone 2 implementation -Final.sql ",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\WebApplication1ADMINPARTTESTED\\WebApplication1\\WebApplication1\\Milestone 2 implementation -Final.sql",
+              "RelativeDocumentMoniker": "WebApplication1\\Milestone 2 implementation -Final.sql",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\WebApplication1ADMINPARTTESTED\\WebApplication1\\WebApplication1\\Milestone 2 implementation -Final.sql",
+              "RelativeToolTip": "WebApplication1\\Milestone 2 implementation -Final.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-06T19:09:31.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
